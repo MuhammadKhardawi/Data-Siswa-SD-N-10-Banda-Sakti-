@@ -6,6 +6,4 @@
     "Kelas 5": 35,
     "Kelas 6": 33,
   
-    "laki-laki":76,
-    "perempuan":86
   }
