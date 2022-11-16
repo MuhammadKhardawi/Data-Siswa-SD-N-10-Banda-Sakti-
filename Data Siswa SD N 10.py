@@ -4,10 +4,8 @@
     "Kelas 3": 31,
     "Kelas 4": 24,
     "Kelas 5": 35,
-    "Kelas 6": 33
-  }
-
-{
+    "Kelas 6": 33,
+  
     "laki-laki":76,
     "perempuan":86
   }
